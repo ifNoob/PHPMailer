@@ -6,7 +6,7 @@
 * License URI: http://www.gnu.org/licenses/gpl.html
 
 # == Description ==
-* 静的HTMLでの問い合わせフォーム
+* 静的HTMLでの問い合わせフォーム Sample HTML 及び sendmail.php
 * WordPress内部でも利用されている、PHPMailerを利用してのフォーム送信
 
 # == Docs & Support ==
