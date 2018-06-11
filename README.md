@@ -42,5 +42,5 @@
 * send any data to external servers;
 * use cookies.
 
-# 注意事項 このプラグイン有効後における個人情報取り扱いには配布者に対し何ら責任は問われません。
-# 免責事項: このプラグインの作成者は法的な背景を持っていません。
+# 注意事項 この Sample template 及び sedmail code における個人情報取り扱いには配布者に対し何ら責任は問われません。
+# 免責事項: この Sample template 及び sedmail code の作成者は法的な背景を持っていません。
