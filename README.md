@@ -42,6 +42,6 @@
 * send any data to external servers;
 * use cookies.
 
-# 取扱事項: この sample template 及び sendmail cbode における何らかの損害について一切の責任を負わないものとし、また法的責任もありません。
+# 取扱事項: この sample template 及び sendmail code における何らかの損害について一切の責任を負わないものとし、また法的責任もありません。
 # 注意事項: この Sample template 及び sebdmail code における個人情報取り扱いには配布者に対し何ら責任は問われません。
 # 免責事項: この Sample template 及び sebdmail code の作成者は法的な背景を持っていません。
